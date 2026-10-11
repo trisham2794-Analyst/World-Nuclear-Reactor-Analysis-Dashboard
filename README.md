@@ -37,7 +37,7 @@ Key insights include:
 - Reactor types and their counts.
 - Country-level capacity comparisons.
 
-![Global Nuclear Fleet Overview](screenshots/01_Global_Nuclear_Fleet_Overview.png)
+![Global Nuclear Fleet Overview](01_Global_Nuclear_Fleet_Overview.png)
 
 ### 2. Reactor Technology & Ageing Analysis
 
@@ -51,7 +51,7 @@ Key insights include:
 - Average build duration by connection decade.
 - Reactor connections across different decades.
 
-![Reactor Technology and Ageing Analysis](screenshots/02_Reactor_Technology_Ageing_Analysis.png)
+![Reactor Technology and Ageing Analysis](02_Reactor_Technology_Ageing_Analysis.png)
 
 ### 3. Operators, Suppliers & Capacity Insights
 
@@ -66,7 +66,7 @@ Key insights include:
 - Average reactor age by country.
 - Reactor-level operational information.
 
-![Operators, Suppliers and Capacity Insights](screenshots/03_Operators_Suppliers_Capacity_Insights.png)
+![Operators, Suppliers and Capacity Insights](03_Operators_Suppliers_Capacity_Insights.png)
 
 ## Tools and Technologies
 
